@@ -1,2 +1,2 @@
 # OSCP-Tools
-Repository for useful tools used during OSCP
+Repository of useful tools used during OSCP
