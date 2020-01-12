@@ -5,6 +5,7 @@ Repository of useful tools used during OSCP
 General:
 https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html
 https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
+https://github.com/RustyShackleford221/OSCP-Prep
 
 Recommended Practice Machines
 https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#
