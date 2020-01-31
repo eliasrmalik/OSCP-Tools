@@ -28,3 +28,4 @@ https://butter0verflow.github.io/oscp/OSCP-WindowsPrivEsc-Part1/
 Buffer Overflows:
 https://github.com/justinsteven/dostackbufferoverflowgood
 
+Msfvenom payload automater: https://github.com/g0tmi1k/msfpc.git
