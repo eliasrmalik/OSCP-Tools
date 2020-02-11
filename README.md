@@ -25,9 +25,18 @@ https://github.com/M4ximuss/Powerless
 https://butter0verflow.github.io/oscp/OSCP-WindowsPrivEsc-Part1/
 
 
+-----
+
+ToDo:
+
 Buffer Overflows:
 https://github.com/justinsteven/dostackbufferoverflowgood
+
+Windows PrivEsc Practice: https://github.com/sagishahar/lpeworkshop?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+----
 
 Msfvenom payload automater: https://github.com/g0tmi1k/msfpc.git
 
 Screen Recorder: https://obsproject.com/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
